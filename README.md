@@ -5,11 +5,7 @@ I believe the best way to learn a language is by listing what you want to achiev
 ### Getting Started
 * [Getting Started](https://www.rust-lang.org/learn/get-started)
 * [Rustlings 🦀](https://github.com/rust-lang/rustlings)
-### Rust Playgroud!
-<iframe
-  src="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021"
-  style="width:100%; height:400px;"
-></iframe>
+* [Rust Playgroud](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021)
 
 ### Rust By Example (RBE)
 * [Rust By Example](https://doc.rust-lang.org/rust-by-example/index.html) 
