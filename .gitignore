@@ -5,3 +5,5 @@ Gemfile.lock
 .jekyll-cache
 rustlings
 misc
+*.swp
+*.DS_Store
